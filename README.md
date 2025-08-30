@@ -1,1 +1,3 @@
 # practicing-useEffect-sideEffects-useCallback
+
+#### In this repository I was practicing the useEffect, useCallback hooks, managing state, adding a progress bar with setInterval, auto removing items with setTimeout...
